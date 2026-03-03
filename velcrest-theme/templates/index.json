@@ -1,0 +1,10 @@
+{
+  "sections": {
+    "velcrest_home": {
+      "type": "velcrest-home"
+    }
+  },
+  "order": [
+    "velcrest_home"
+  ]
+}
